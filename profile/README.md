@@ -18,6 +18,7 @@
 
 ### MATERIAŁY
 Dostępne na tej stronie publiczne repozytoria zawierają materiały objęte licencją:
+
 ![CC BY NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png "CC BY NC")
 
 
